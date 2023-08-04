@@ -1,0 +1,16 @@
+{
+"companyName": "DaNGo_iz",
+"productName": "GhostyBirthday2023",
+"productVersion": "0.1",
+"dataUrl": "GhostyBirthday2023.data.unityweb",
+"wasmCodeUrl": "GhostyBirthday2023.wasm.code.unityweb",
+"wasmFrameworkUrl": "GhostyBirthday2023.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}
